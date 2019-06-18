@@ -1,0 +1,13 @@
+.navbar-reg {
+  float: left;
+  height: 20px;
+  padding: 15px 15px;
+  font-size: 12px;
+  line-height: 20px;
+  color: #2F1111;
+}
+.navbar-reg:hover,
+.navbar-reg:focus {
+  text-decoration: none;
+}
+

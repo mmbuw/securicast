@@ -1,0 +1,625 @@
+id;task;action;hour;minute;second;millisecond
+0;google;user credentials;21;34;45;148
+0;google;sign in;21;34;54;932
+0;google;totp;21;35;8;918
+0;google;verify pin;21;35;19;958
+0;securicast;user credentials;21;35;43;599
+0;securicast;sign in;21;35;49;743
+0;securicast;start web bluetooth;21;35;59;895
+0;securicast;connecting;21;36;5;312
+0;securicast;getting service;21;36;5;747
+0;securicast;getting characteristic;21;36;8;880
+0;securicast;writing characteristic;21;36;8;885
+0;securicast;handling response;21;36;9;718
+0;securicast_notification;user credentials;21;37;0;525
+0;securicast_notification;sign in;21;37;5;747
+0;securicast_notification;start web bluetooth;21;37;15;856
+0;securicast_notification;connecting;21;37;20;526
+0;securicast_notification;getting service;21;37;21;528
+0;securicast_notification;getting characteristic;21;37;24;758
+0;securicast_notification;writing characteristic;21;37;24;762
+0;securicast_notification;handling response;21;37;34;971
+1;google;user credentials;12;55;21;682
+1;google;sign in;12;55;29;855
+1;google;user credentials;12;55;55;226
+1;google;sign in;12;56;3;407
+1;google;totp;12;56;15;873
+1;google;verify pin;12;56;22;690
+1;securicast_notification;user credentials;12;58;0;511
+1;securicast_notification;sign in;12;58;6;961
+1;securicast_notification;start web bluetooth;12;58;9;393
+1;securicast_notification;connecting;12;58;13;53
+1;securicast_notification;getting service;12;58;14;528
+1;securicast_notification;getting characteristic;12;58;17;899
+1;securicast_notification;writing characteristic;12;58;17;906
+1;securicast_notification;handling response;12;58;23;769
+1;securicast;user credentials;13;0;16;869
+1;securicast;sign in;13;0;23;920
+1;securicast;user credentials;13;0;28;461
+1;securicast;sign in;13;0;34;115
+1;securicast;start web bluetooth;13;0;36;603
+1;securicast;connecting;13;0;40;643
+1;securicast;getting service;13;0;41;947
+1;securicast;getting characteristic;13;0;45;31
+1;securicast;writing characteristic;13;0;45;40
+1;securicast;handling response;13;0;45;800
+2;securicast;user credentials;15;7;8;227
+2;securicast;sign in;15;7;15;16
+2;securicast;start web bluetooth;15;7;19;440
+2;securicast;connecting;15;7;23;497
+2;securicast;getting service;15;7;24;651
+2;securicast;getting characteristic;15;7;27;814
+2;securicast;writing characteristic;15;7;27;824
+2;securicast;handling response;15;7;28;643
+2;google;user credentials;15;9;28;368
+2;google;sign in;15;9;34;426
+2;google;totp;15;9;45;235
+2;google;verify pin;15;9;49;772
+2;google;totp;15;9;58;274
+2;google;verify pin;15;10;4;998
+2;securicast_notification;user credentials;15;13;34;321
+2;securicast_notification;sign in;15;13;40;109
+2;securicast_notification;start web bluetooth;15;13;46;529
+2;securicast_notification;connecting;15;13;51;402
+2;securicast_notification;getting service;15;13;52;98
+2;securicast_notification;getting characteristic;15;13;55;328
+2;securicast_notification;writing characteristic;15;13;55;333
+2;securicast_notification;handling response;15;14;3;724
+3;securicast;user credentials;16;53;30;938
+3;securicast;sign in;16;53;34;491
+3;securicast;start web bluetooth;16;53;40;394
+3;securicast;connecting;16;53;45;325
+3;securicast;getting service;16;53;45;872
+3;securicast;getting characteristic;16;53;49;370
+3;securicast;writing characteristic;16;53;49;375
+3;securicast;handling response;16;53;50;416
+3;securicast_notification;user credentials;16;55;31;653
+3;securicast_notification;sign in;16;55;35;6
+3;securicast_notification;start web bluetooth;16;55;39;716
+3;securicast_notification;connecting;16;55;45;168
+3;securicast_notification;getting service;16;55;46;278
+3;securicast_notification;getting characteristic;16;55;49;346
+3;securicast_notification;writing characteristic;16;55;49;350
+3;securicast_notification;handling response;16;55;58;517
+3;google;user credentials;16;56;54;294
+3;google;sign in;16;56;58;221
+3;google;totp;16;57;3;620
+3;google;verify pin;16;57;7;258
+4;securicast_notification;user credentials;10;10;33;308
+4;securicast_notification;sign in;10;10;43;948
+4;securicast_notification;start web bluetooth;10;10;55;70
+4;securicast_notification;connecting;10;11;13;711
+4;securicast_notification;getting service;10;11;14;756
+4;securicast_notification;getting characteristic;10;11;17;882
+4;securicast_notification;writing characteristic;10;11;17;888
+4;securicast_notification;handling response;10;11;59;467
+4;google;user credentials;10;14;19;147
+4;google;sign in;10;14;26;581
+4;google;totp;10;14;51;518
+4;google;verify pin;10;14;59;747
+4;securicast;user credentials;10;16;19;171
+4;securicast;sign in;10;16;25;914
+4;securicast;start web bluetooth;10;16;30;733
+4;securicast;connecting;10;16;36;403
+4;securicast;getting service;10;16;37;76
+4;securicast;getting characteristic;10;16;40;508
+4;securicast;writing characteristic;10;16;40;511
+4;securicast;handling response;10;16;41;421
+5;securicast_notification;user credentials;11;12;36;236
+5;securicast_notification;sign in;11;12;43;636
+5;securicast_notification;start web bluetooth;11;13;29;60
+5;securicast_notification;connecting;11;13;33;94
+5;securicast_notification;getting service;11;13;33;672
+5;securicast_notification;getting characteristic;11;13;36;59
+5;securicast_notification;writing characteristic;11;13;36;63
+5;securicast_notification;handling response;11;13;59;154
+5;securicast;user credentials;11;15;48;366
+5;securicast;sign in;11;15;52;446
+5;securicast;user credentials;11;15;57;989
+5;securicast;sign in;11;16;2;279
+5;securicast;start web bluetooth;11;16;4;848
+5;securicast;connecting;11;16;9;121
+5;securicast;getting service;11;16;9;911
+5;securicast;getting characteristic;11;16;13;220
+5;securicast;writing characteristic;11;16;13;229
+5;securicast;handling response;11;16;13;904
+5;google;user credentials;11;17;37;114
+5;google;sign in;11;17;41;692
+5;google;totp;11;17;49;762
+5;google;verify pin;11;17;54;717
+6;google;user credentials;14;24;8;280
+6;google;sign in;14;24;10;20
+6;google;totp;14;24;15;116
+6;google;verify pin;14;24;21;399
+6;securicast;user credentials;14;25;55;795
+6;securicast;sign in;14;26;0;4
+6;securicast;start web bluetooth;14;26;4;408
+6;securicast;connecting;14;26;8;36
+6;securicast;getting service;14;26;8;749
+6;securicast;getting characteristic;14;26;11;975
+6;securicast;writing characteristic;14;26;11;988
+6;securicast;handling response;14;26;12;951
+6;securicast_notification;user credentials;14;27;37;427
+6;securicast_notification;sign in;14;27;44;624
+6;securicast_notification;start web bluetooth;14;27;49;241
+6;securicast_notification;connecting;14;27;53;192
+6;securicast_notification;start web bluetooth;14;28;7;740
+6;securicast_notification;connecting;14;28;12;242
+6;securicast_notification;getting service;14;28;13;215
+6;securicast_notification;getting characteristic;14;28;16;644
+6;securicast_notification;writing characteristic;14;28;16;648
+6;securicast_notification;handling response;14;28;26;21
+7;google;user credentials;14;47;49;4
+7;google;sign in;14;47;55;583
+7;google;totp;14;48;17;695
+7;google;verify pin;14;48;24;971
+7;securicast_notification;user credentials;14;52;46;612
+7;securicast_notification;sign in;14;52;54;274
+7;securicast_notification;start web bluetooth;14;52;59;45
+7;securicast_notification;connecting;14;53;4;450
+7;securicast_notification;getting service;14;53;5;182
+7;securicast_notification;getting characteristic;14;53;8;823
+7;securicast_notification;writing characteristic;14;53;8;826
+7;securicast_notification;handling response;14;53;15;263
+7;securicast;user credentials;14;57;38;30
+7;securicast;sign in;14;57;43;489
+7;securicast;start web bluetooth;14;57;49;942
+7;securicast;connecting;14;57;54;149
+7;securicast;getting service;14;57;54;838
+7;securicast;getting characteristic;14;57;58;132
+7;securicast;writing characteristic;14;57;58;137
+7;securicast;handling response;14;57;58;901
+8;securicast;user credentials;15;10;8;477
+8;securicast;sign in;15;10;13;324
+8;securicast;start web bluetooth;15;10;25;485
+8;securicast;connecting;15;10;31;16
+8;securicast;getting service;15;10;32;441
+8;securicast;disconnected;15;10;35;172
+8;securicast;connecting;15;10;35;174
+8;securicast;start web bluetooth;15;10;45;209
+8;securicast;connecting;15;10;49;28
+8;securicast;getting service;15;10;49;520
+8;securicast;writing characteristic;15;10;52;685
+8;securicast;getting characteristic;15;10;52;679
+8;securicast;handling response;15;10;53;444
+8;google;user credentials;15;12;44;322
+8;google;sign in;15;12;47;631
+8;google;totp;15;12;54;645
+8;google;verify pin;15;13;7;170
+8;securicast_notification;user credentials;15;15;17;86
+8;securicast_notification;sign in;15;15;21;83
+8;securicast_notification;start web bluetooth;15;15;28;487
+8;securicast_notification;connecting;15;15;33;974
+8;securicast_notification;getting service;15;15;34;557
+8;securicast_notification;getting characteristic;15;15;37;922
+8;securicast_notification;writing characteristic;15;15;37;936
+8;securicast_notification;handling response;15;15;47;585
+9;securicast;user credentials;16;18;49;262
+9;securicast;sign in;16;18;54;79
+9;securicast;start web bluetooth;16;19;1;499
+9;securicast;connecting;16;19;9;841
+9;securicast;getting service;16;19;11;350
+9;securicast;getting characteristic;16;19;15;134
+9;securicast;writing characteristic;16;19;15;145
+9;securicast;handling response;16;19;16;317
+9;securicast_notification;user credentials;16;23;41;186
+9;securicast_notification;sign in;16;23;43;850
+9;securicast_notification;start web bluetooth;16;23;46;169
+9;securicast_notification;connecting;16;23;48;911
+9;securicast_notification;getting service;16;23;50;84
+9;securicast_notification;writing characteristic;16;23;54;153
+9;securicast_notification;getting characteristic;16;23;54;149
+9;securicast_notification;handling response;16;23;57;226
+9;google;user credentials;16;25;46;963
+9;google;sign in;16;25;50;686
+9;google;totp;16;25;56;277
+9;google;verify pin;16;26;8;345
+10;securicast_notification;user credentials;18;5;56;37
+10;securicast_notification;sign in;18;6;7;727
+10;securicast_notification;start web bluetooth;18;6;14;959
+10;securicast_notification;connecting;18;6;18;373
+10;securicast_notification;getting service;18;6;19;656
+10;securicast_notification;getting characteristic;18;6;24;776
+10;securicast_notification;writing characteristic;18;6;24;783
+10;securicast_notification;handling response;18;6;30;989
+10;google;user credentials;18;8;12;907
+10;google;sign in;18;8;16;663
+10;google;totp;18;8;44;172
+10;google;verify pin;18;8;48;698
+10;securicast;user credentials;18;11;47;706
+10;securicast;sign in;18;11;50;939
+10;securicast;start web bluetooth;18;11;55;99
+10;securicast;connecting;18;11;58;33
+10;securicast;getting service;18;11;58;511
+10;securicast;getting characteristic;18;12;1;524
+10;securicast;writing characteristic;18;12;1;529
+10;securicast;handling response;18;12;2;366
+11;securicast_notification;user credentials;11;33;16;506
+11;securicast_notification;sign in;11;33;23;212
+11;securicast_notification;start web bluetooth;11;33;27;200
+11;securicast_notification;connecting;11;33;33;909
+11;securicast_notification;getting service;11;33;42;504
+11;securicast_notification;getting characteristic;11;33;45;32
+11;securicast_notification;writing characteristic;11;33;45;39
+11;securicast_notification;handling response;11;33;49;153
+11;securicast;user credentials;11;35;23;173
+11;securicast;sign in;11;35;27;475
+11;securicast;start web bluetooth;11;35;29;585
+11;securicast;connecting;11;35;35;158
+11;securicast;getting service;11;35;35;698
+11;securicast;getting characteristic;11;35;39;59
+11;securicast;writing characteristic;11;35;39;63
+11;securicast;handling response;11;35;39;965
+11;google;user credentials;11;36;47;579
+11;google;sign in;11;36;51;938
+11;google;totp;11;37;4;34
+11;google;verify pin;11;37;7;101
+12;google;user credentials;13;21;52;961
+12;google;sign in;13;21;55;388
+12;google;totp;13;22;11;483
+12;google;verify pin;13;22;15;539
+12;securicast;user credentials;13;24;34;299
+12;securicast;sign in;13;24;41;666
+12;securicast;start web bluetooth;13;24;49;326
+12;securicast;connecting;13;24;52;886
+12;securicast;getting service;13;24;53;589
+12;securicast;getting characteristic;13;24;56;819
+12;securicast;writing characteristic;13;24;56;824
+12;securicast;handling response;13;24;57;792
+12;securicast_notification;user credentials;13;26;50;471
+12;securicast_notification;sign in;13;26;54;21
+12;securicast_notification;start web bluetooth;13;27;3;156
+12;securicast_notification;connecting;13;27;10;420
+12;securicast_notification;getting service;13;27;11;207
+12;securicast_notification;getting characteristic;13;27;14;499
+12;securicast_notification;writing characteristic;13;27;14;503
+12;securicast_notification;handling response;13;27;27;308
+13;google;user credentials;13;34;24;803
+13;google;sign in;13;34;28;58
+13;google;totp;13;34;39;702
+13;google;verify pin;13;34;43;687
+13;securicast_notification;user credentials;13;37;47;362
+13;securicast_notification;sign in;13;37;50;162
+13;securicast_notification;start web bluetooth;13;37;56;998
+13;securicast_notification;connecting;13;38;0;382
+13;securicast_notification;getting service;13;38;1;922
+13;securicast_notification;getting characteristic;13;38;5;495
+13;securicast_notification;writing characteristic;13;38;5;498
+13;securicast_notification;handling response;13;38;19;5
+13;securicast;user credentials;13;40;30;589
+13;securicast;sign in;13;40;32;721
+13;securicast;user credentials;13;40;38;86
+13;securicast;sign in;13;40;39;868
+13;securicast;start web bluetooth;13;40;43;115
+13;securicast;connecting;13;40;45;565
+13;securicast;getting service;13;40;46;841
+13;securicast;getting characteristic;13;40;50;65
+13;securicast;writing characteristic;13;40;50;71
+13;securicast;handling response;13;40;51;46
+14;securicast;user credentials;15;36;44;824
+14;securicast;sign in;15;36;55;863
+14;securicast;start web bluetooth;15;37;1;371
+14;securicast;connecting;15;37;7;437
+14;securicast;getting service;15;37;8;720
+14;securicast;getting characteristic;15;37;12;40
+14;securicast;writing characteristic;15;37;12;44
+14;securicast;handling response;15;37;12;923
+14;google;user credentials;15;38;38;990
+14;google;sign in;15;38;42;860
+14;google;totp;15;38;55;83
+14;google;verify pin;15;38;58;345
+14;securicast_notification;user credentials;15;40;24;844
+14;securicast_notification;sign in;15;40;28;69
+14;securicast_notification;start web bluetooth;15;40;33;333
+14;securicast_notification;connecting;15;40;38;445
+14;securicast_notification;getting service;15;40;39;278
+14;securicast_notification;getting characteristic;15;40;42;856
+14;securicast_notification;writing characteristic;15;40;42;865
+14;securicast_notification;handling response;15;41;6;302
+15;securicast;user credentials;16;46;49;145
+15;securicast;sign in;16;46;52;230
+15;securicast;start web bluetooth;16;46;56;746
+15;securicast;connecting;16;47;1;40
+15;securicast;getting service;16;47;1;904
+15;securicast;getting characteristic;16;47;4;769
+15;securicast;writing characteristic;16;47;4;776
+15;securicast;handling response;16;47;5;746
+15;securicast_notification;user credentials;16;49;50;372
+15;securicast_notification;sign in;16;49;53;387
+15;securicast_notification;start web bluetooth;16;49;56;412
+15;securicast_notification;connecting;16;49;59;474
+15;securicast_notification;getting service;16;50;0;326
+15;securicast_notification;getting characteristic;16;50;2;922
+15;securicast_notification;writing characteristic;16;50;2;927
+15;securicast_notification;handling response;16;50;9;501
+15;google;user credentials;16;51;32;224
+15;google;sign in;16;51;34;389
+15;google;totp;16;51;44;360
+15;google;verify pin;16;51;46;455
+17;securicast_notification;user credentials;17;3;3;277
+17;securicast_notification;sign in;17;3;6;591
+17;securicast_notification;start web bluetooth;17;3;12;559
+17;securicast_notification;connecting;17;3;17;981
+17;securicast_notification;getting service;17;3;18;392
+17;securicast_notification;getting characteristic;17;3;20;986
+17;securicast_notification;writing characteristic;17;3;20;990
+17;securicast_notification;handling response;17;3;30;85
+17;securicast;user credentials;17;5;28;552
+17;securicast;sign in;17;5;31;836
+17;securicast;start web bluetooth;17;5;45;627
+17;securicast;connecting;17;5;48;986
+17;securicast;getting service;17;5;49;590
+17;securicast;getting characteristic;17;5;51;974
+17;securicast;writing characteristic;17;5;51;981
+17;securicast;handling response;17;5;53;231
+17;google;user credentials;17;7;3;366
+17;google;sign in;17;7;6;996
+17;google;totp;17;7;12;237
+17;google;verify pin;17;7;15;968
+16;securicast_notification;user credentials;19;22;39;232
+16;securicast_notification;sign in;19;22;43;541
+16;securicast_notification;start web bluetooth;19;22;47;757
+16;securicast_notification;connecting;19;22;53;298
+16;securicast_notification;getting service;19;22;54;739
+16;securicast_notification;getting characteristic;19;22;57;749
+16;securicast_notification;writing characteristic;19;22;57;757
+16;securicast_notification;handling response;19;23;15;592
+16;google;user credentials;19;25;25;615
+16;google;sign in;19;25;32;917
+16;google;totp;19;25;48;480
+16;google;verify pin;19;25;53;934
+16;securicast;user credentials;19;27;48;480
+16;securicast;sign in;19;27;53;407
+16;securicast;start web bluetooth;19;27;56;64
+16;securicast;connecting;19;27;59;945
+16;securicast;getting service;19;28;0;415
+16;securicast;getting characteristic;19;28;3;153
+16;securicast;writing characteristic;19;28;3;157
+16;securicast;handling response;19;28;3;919
+18;google;user credentials;21;5;2;746
+18;google;sign in;21;5;13;311
+18;google;totp;21;5;18;810
+18;google;verify pin;21;5;27;430
+18;securicast;user credentials;21;11;39;464
+18;securicast;sign in;21;11;47;302
+18;securicast;start web bluetooth;21;11;51;287
+18;securicast;connecting;21;11;56;307
+18;securicast;getting service;21;11;57;3
+18;securicast;getting characteristic;21;11;59;501
+18;securicast;writing characteristic;21;11;59;505
+18;securicast;handling response;21;12;0;204
+18;securicast_notification;user credentials;21;15;53;79
+18;securicast_notification;sign in;21;16;3;638
+18;securicast_notification;start web bluetooth;21;16;8;943
+18;securicast_notification;connecting;21;16;17;914
+18;securicast_notification;getting service;21;16;19;53
+18;securicast_notification;getting characteristic;21;16;21;645
+18;securicast_notification;writing characteristic;21;16;21;653
+18;securicast_notification;handling response;21;16;38;25
+19;google;user credentials;11;2;51;241
+19;google;sign in;11;2;56;639
+19;google;totp;11;3;4;591
+19;google;verify pin;11;3;10;640
+19;securicast_notification;user credentials;11;5;6;709
+19;securicast_notification;sign in;11;5;9;663
+19;securicast_notification;start web bluetooth;11;5;13;592
+19;securicast_notification;connecting;11;5;17;70
+19;securicast_notification;getting service;11;5;18;348
+19;securicast_notification;getting characteristic;11;5;21;527
+19;securicast_notification;writing characteristic;11;5;21;536
+19;securicast_notification;handling response;11;5;27;972
+19;securicast;user credentials;11;6;56;550
+19;securicast;sign in;11;7;1;932
+19;securicast;start web bluetooth;11;7;3;968
+19;securicast;connecting;11;7;6;397
+19;securicast;getting service;11;7;8;63
+19;securicast;getting characteristic;11;7;11;849
+19;securicast;writing characteristic;11;7;11;861
+19;securicast;handling response;11;7;12;757
+20;securicast;user credentials;11;29;27;216
+20;securicast;sign in;11;29;33;823
+20;securicast;start web bluetooth;11;29;47;628
+20;securicast;connecting;11;29;53;15
+20;securicast;getting service;11;29;53;822
+20;securicast;getting characteristic;11;29;56;981
+20;securicast;writing characteristic;11;29;56;983
+20;securicast;handling response;11;29;58;22
+20;google;user credentials;11;31;58;992
+20;google;sign in;11;32;4;734
+20;google;totp;11;32;18;102
+20;google;verify pin;11;32;28;208
+20;securicast_notification;user credentials;11;34;33;639
+20;securicast_notification;sign in;11;34;39;86
+20;securicast_notification;start web bluetooth;11;34;42;574
+20;securicast_notification;connecting;11;34;45;396
+20;securicast_notification;getting service;11;34;46;209
+20;securicast_notification;getting characteristic;11;34;49;367
+20;securicast_notification;writing characteristic;11;34;49;372
+20;securicast_notification;handling response;11;35;11;271
+21;securicast;user credentials;13;27;49;727
+21;securicast;sign in;13;27;58;369
+21;securicast;start web bluetooth;13;28;21;944
+21;securicast;connecting;13;28;25;995
+21;securicast;getting service;13;28;26;463
+21;securicast;getting characteristic;13;28;29;546
+21;securicast;writing characteristic;13;28;29;556
+21;securicast;handling response;13;28;30;314
+21;securicast_notification;user credentials;13;31;27;445
+21;securicast_notification;sign in;13;31;32;801
+21;securicast_notification;start web bluetooth;13;31;35;528
+21;securicast_notification;connecting;13;31;39;217
+21;securicast_notification;getting service;13;31;40;291
+21;securicast_notification;getting characteristic;13;31;42;883
+21;securicast_notification;writing characteristic;13;31;42;892
+21;securicast_notification;handling response;13;32;0;179
+21;google;user credentials;13;33;32;888
+21;google;sign in;13;33;36;311
+21;google;totp;13;33;39;934
+21;google;verify pin;13;33;45;945
+22;securicast_notification;user credentials;17;32;53;988
+22;securicast_notification;sign in;17;33;0;365
+22;securicast_notification;start web bluetooth;17;33;5;448
+22;securicast_notification;connecting;17;33;10;236
+22;securicast_notification;getting service;17;33;11;81
+22;securicast_notification;getting characteristic;17;33;14;510
+22;securicast_notification;writing characteristic;17;33;14;517
+22;securicast_notification;handling response;17;33;32;431
+22;google;user credentials;17;39;44;345
+22;google;sign in;17;39;51;343
+22;google;totp;17;40;32;338
+22;google;verify pin;17;40;34;577
+22;securicast;user credentials;17;44;50;400
+22;securicast;sign in;17;44;54;588
+22;securicast;start web bluetooth;17;44;56;845
+22;securicast;connecting;17;44;59;807
+22;securicast;getting service;17;45;0;943
+22;securicast;getting characteristic;17;45;4;167
+22;securicast;writing characteristic;17;45;4;175
+22;securicast;handling response;17;45;4;936
+23;securicast_notification;user credentials;12;35;57;733
+23;securicast_notification;sign in;12;36;8;284
+23;securicast_notification;start web bluetooth;12;36;12;248
+23;securicast_notification;connecting;12;36;20;134
+23;securicast_notification;getting service;12;36;21;65
+23;securicast_notification;getting characteristic;12;36;24;545
+23;securicast_notification;writing characteristic;12;36;24;548
+23;securicast_notification;handling response;12;36;29;288
+23;securicast;user credentials;12;38;1;675
+23;securicast;sign in;12;38;5;594
+23;securicast;start web bluetooth;12;38;11;749
+23;securicast;connecting;12;38;15;373
+23;securicast;getting service;12;38;16;460
+23;securicast;getting characteristic;12;38;20;799
+23;securicast;writing characteristic;12;38;20;801
+23;securicast;handling response;12;38;22;56
+23;google;user credentials;12;39;24;193
+23;google;sign in;12;39;26;818
+23;google;user credentials;12;39;30;940
+23;google;sign in;12;39;35;358
+23;google;totp;12;39;43;970
+23;google;verify pin;12;39;48;922
+24;google;user credentials;12;44;15;891
+24;google;sign in;12;44;20;149
+24;google;start web bluetooth;12;44;35;454
+24;google;totp;12;45;1;992
+24;google;verify pin;12;45;7;879
+24;securicast;user credentials;12;46;30;25
+24;securicast;sign in;12;46;34;294
+24;securicast;start web bluetooth;12;46;39;219
+24;securicast;connecting;12;46;46;580
+24;securicast;getting service;12;46;48;850
+24;securicast;getting characteristic;12;46;52;706
+24;securicast;writing characteristic;12;46;52;712
+24;securicast;handling response;12;46;53;684
+24;securicast_notification;user credentials;12;48;42;487
+24;securicast_notification;sign in;12;48;46;34
+24;securicast_notification;start web bluetooth;12;48;51;544
+24;securicast_notification;connecting;12;48;55;459
+24;securicast_notification;getting service;12;48;55;898
+24;securicast_notification;getting characteristic;12;48;59;339
+24;securicast_notification;writing characteristic;12;48;59;346
+24;securicast_notification;handling response;12;49;20;751
+25;google;user credentials;13;5;39;369
+25;google;sign in;13;5;45;879
+25;google;totp;13;6;3;794
+25;google;verify pin;13;6;7;633
+25;securicast_notification;user credentials;13;8;16;159
+25;securicast_notification;sign in;13;8;22;153
+25;securicast_notification;start web bluetooth;13;8;26;829
+25;securicast_notification;connecting;13;8;30;410
+25;securicast_notification;getting service;13;8;31;399
+25;securicast_notification;getting characteristic;13;8;34;696
+25;securicast_notification;writing characteristic;13;8;34;704
+25;securicast_notification;handling response;13;8;40;782
+25;securicast;user credentials;13;10;19;142
+25;securicast;sign in;13;10;23;93
+25;securicast;start web bluetooth;13;10;26;571
+25;securicast;connecting;13;10;29;850
+25;securicast;getting service;13;10;30;469
+25;securicast;getting characteristic;13;10;33;904
+25;securicast;writing characteristic;13;10;33;907
+25;securicast;handling response;13;10;34;742
+26;securicast;user credentials;16;22;11;129
+26;securicast;sign in;16;22;13;0
+26;securicast;start web bluetooth;16;22;33;305
+26;securicast;connecting;16;22;45;190
+26;securicast;getting service;16;22;45;668
+26;securicast;getting characteristic;16;22;48;123
+26;securicast;writing characteristic;16;22;48;130
+26;securicast;handling response;16;22;49;243
+26;securicast_notification;user credentials;16;26;14;337
+26;securicast_notification;sign in;16;26;38;741
+26;securicast_notification;start web bluetooth;16;26;48;704
+26;securicast_notification;connecting;16;26;51;201
+26;securicast_notification;getting service;16;26;51;785
+26;securicast_notification;getting characteristic;16;26;55;85
+26;securicast_notification;writing characteristic;16;26;55;88
+26;securicast_notification;handling response;16;27;14;745
+26;google;user credentials;16;30;42;422
+26;google;sign in;16;30;43;924
+26;google;totp;16;30;56;203
+26;google;verify pin;16;30;58;233
+27;user credentials;17;2;51;688
+27;sign in;17;2;54;332
+27;start web bluetooth;17;3;14;731
+27;connecting;17;3;18;204
+27;getting service;17;3;19;496
+27;getting characteristic;17;3;22;779
+27;writing characteristic;17;3;22;788
+27;handling response;17;3;23;609
+27;user credentials;17;6;10;161
+27;sign in;17;6;15;177
+27;totp;17;6;29;425
+27;verify pin;17;6;32;933
+27;user credentials;17;9;9;708
+27;sign in;17;9;12;254
+27;start web bluetooth;17;9;14;794
+27;connecting;17;9;17;874
+27;getting service;17;9;18;503
+27;getting characteristic;17;9;21;866
+27;writing characteristic;17;9;21;876
+27;handling response;17;9;27;956
+28;user credentials;17;20;44;647
+28;sign in;17;20;54;610
+28;start web bluetooth;17;21;12;161
+28;connecting;17;21;16;279
+28;getting service;17;21;16;770
+28;getting characteristic;17;21;19;993
+28;writing characteristic;17;21;19;998
+28;handling response;17;21;26;848
+28;user credentials;17;22;53;549
+28;sign in;17;23;1;255
+28;totp;17;23;18;431
+28;verify pin;17;23;28;246
+28;user credentials;17;25;33;175
+28;sign in;17;25;37;223
+28;user credentials;17;25;41;21
+28;sign in;17;25;43;348
+28;start web bluetooth;17;25;47;58
+28;connecting;17;25;49;682
+28;start web bluetooth;17;26;0;628
+28;connecting;17;26;3;560
+28;getting service;17;26;4;45
+28;getting characteristic;17;26;7;267
+28;writing characteristic;17;26;7;272
+28;handling response;17;26;8;37
+29;securicast_notification;user credentials;17;46;8;320
+29;securicast_notification;sign in;17;46;12;645
+29;securicast_notification;start web bluetooth;17;46;17;574
+29;securicast_notification;connecting;17;46;21;105
+29;securicast_notification;getting service;17;46;23;370
+29;securicast_notification;getting characteristic;17;46;27;847
+29;securicast_notification;writing characteristic;17;46;27;853
+29;securicast_notification;handling response;17;46;34;497
+29;securicast;user credentials;17;50;2;217
+29;securicast;sign in;17;50;6;793
+29;securicast;start web bluetooth;17;50;11;682
+29;securicast;connecting;17;50;15;452
+29;securicast;getting service;17;50;16;672
+29;securicast;getting characteristic;17;50;20;804
+29;securicast;writing characteristic;17;50;20;808
+29;securicast;handling response;17;50;21;716
+29;google;user credentials;17;53;46;745
+29;google;sign in;17;53;49;3
+29;google;totp;17;54;5;328
+29;google;verify pin;17;54;10;165

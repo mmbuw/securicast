@@ -1,0 +1,9 @@
+RemoteSystemsTempFiles/
+.metadata/
+.recommenders/
+Servers/
+/*/build/
+/*/db/
+/*/.settings/
+/*/.classpath
+/*/.project

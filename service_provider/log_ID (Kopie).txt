@@ -1,0 +1,21 @@
+id;task;action;hour;minute;second;millisecond
+0;google;user credentials;21;34;45;148
+0;google;sign in;21;34;54;932
+0;google;totp;21;35;8;918
+0;google;verify pin;21;35;19;958
+0;securi_no;user credentials;21;35;43;599
+0;securi_no;sign in;21;35;49;743
+0;securi_no;start web bluetooth;21;35;59;895
+0;securi_no;connecting;21;36;5;312
+0;securi_no;getting service;21;36;5;747
+0;securi_no;getting characteristic;21;36;8;880
+0;securi_no;writing characteristic;21;36;8;885
+0;securi_no;handling response;21;36;9;718
+0;securi_with;user credentials;21;37;0;525
+0;securi_with;sign in;21;37;5;747
+0;securi_with;start web bluetooth;21;37;15;856
+0;securi_with;connecting;21;37;20;526
+0;securi_with;getting service;21;37;21;528
+0;securi_with;getting characteristic;21;37;24;758
+0;securi_with;writing characteristic;21;37;24;762
+0;securi_with;handling response;21;37;34;971
