@@ -1,6 +1,6 @@
 #  SecuriCast: Zero-Touch Two-Factor Authentication using WebBluetooth 
 
-## Companion repository to the research paper presented at EICS 2019 (https://dl.acm.org/citation.cfm?id=3328225)
+### Companion repository to the research paper presented at EICS 2019 (https://dl.acm.org/citation.cfm?id=3328225)
 
 Simple username/password logins are widely used on the web, but are susceptible to multiple security issues, such as database leaks, phishing, and password re-use. Two-factor authentication is one way to mitigate these issues, but suffers from low user acceptance due to (perceived) additional effort.
 
